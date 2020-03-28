@@ -1,4 +1,4 @@
-# Cybertalent 2019 Writeup
+# Cybertalent 2020 Writeup
 
 ## Del 1 - Grunnleggende
 
